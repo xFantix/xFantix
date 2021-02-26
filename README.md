@@ -1,9 +1,9 @@
 ## 🙍 About me
 
-👦 Kamil Jankowski
-🎂 22
-🏫 Uniwersytet Mikołaja Kopernika w Toruniu
-🏠 Grudziądz/Toruń
+👦 Kamil Jankowski<br/>
+🎂 22<br/>
+🏫 Uniwersytet Mikołaja Kopernika w Toruniu<br/>
+🏠 Grudziądz/Toruń<br/>
 
 ## 🔧 Technologies
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/xFantix/)](https://github.com/xFantix/)
